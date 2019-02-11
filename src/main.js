@@ -10,9 +10,9 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 
 //TOLONG GANTI SEMUA SEPERTI LOCKUPDATEGROUP TAPI MSG SERTA UNMUTE/MUTE JAN LU OTAK ATIK BEGO~//
-const myBott = ['u14f64e139a3817afaabe27d237afb36b','u49f93172b8c8865683dd2d47ccbb8613','uafa4799654e54457c87031c450f1ae42','u9e95a04f463bca969d248318b63281d0','u8bc7bff0a03e8a6e62d710a615c43dc3','uf2e49f5a15357adee664f757e1bedbfd'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
+const myBott = ['4b8170445ee9d971104df8779d9049b0','4e2c2df10d3ac1066c84f1442f1ba5f0','bf8e0e1f17d95f3dafb95bb9b8a3e526','53e374815b5f51140db737d607429ca5','8363e7695bc3ea432746cbe6fa9e70b5','U76a2d55c1055425029818c164a89bc87'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
 
-const myBot = ['u14f64e139a3817afaabe27d237afb36b','u49f93172b8c8865683dd2d47ccbb8613','uafa4799654e54457c87031c450f1ae42','u9e95a04f463bca969d248318b63281d0','u8bc7bff0a03e8a6e62d710a615c43dc3','uf2e49f5a15357adee664f757e1bedbfd'];//TARO MID LU DISINI
+const myBot = ['4b8170445ee9d971104df8779d9049b0','4e2c2df10d3ac1066c84f1442f1ba5f0','bf8e0e1f17d95f3dafb95bb9b8a3e526','53e374815b5f51140db737d607429ca5','8363e7695bc3ea432746cbe6fa9e70b5','U76a2d55c1055425029818c164a89bc87'];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {
